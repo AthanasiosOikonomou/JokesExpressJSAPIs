@@ -2,6 +2,11 @@
 
 Welcome to the Jokes ExpressJS API! This simple project provides a RESTful API for managing jokes. It supports various operations, including retrieving random jokes, fetching specific jokes by ID, filtering jokes by type, posting new jokes, updating existing jokes, and deleting jokes.
 
+## Clone
+
+`git clone https://github.com/AthanasiosOikonomou/JokesExpressJSAPIs.git`
+
+
 ## Start
 
 - You need to open your index.js and write npm i to install all dependencies/ modules.
